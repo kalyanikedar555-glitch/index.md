@@ -9,3 +9,4 @@ title: About Me
 Welcome to my GitHub Pages portfolio. This site showcases my projects, skills, and experience in data analytics, data science, and data engineering.
 
 I am currently seeking graduate, junior, and mid-level opportunities in the UK.
+.
